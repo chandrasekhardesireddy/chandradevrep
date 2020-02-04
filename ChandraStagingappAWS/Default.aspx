@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>My Blog</h1>
        
-        <p><a href="https://chandrasekhardesireddi.wordpress.com/" class="btn btn-primary btn-lg">Learn more about me! &raquo;</a></p>
+        <p><a href="https://chandrasekhardesireddi.wordpress.com/" class="btn btn-primary btn-lg">Learn more about me &raquo;</a></p>
     </div>
 
     
