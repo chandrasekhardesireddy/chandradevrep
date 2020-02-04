@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>My Blog</h1>
+        <h1>Chandu</h1>
        
         <p><a href="https://chandrasekhardesireddi.wordpress.com/" class="btn btn-primary btn-lg">Learn more about me &raquo;</a></p>
     </div>
